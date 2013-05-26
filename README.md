@@ -31,7 +31,7 @@ Compile and Package (CDH4)
     $ cd SpatialCrunch
     $ mvn -Pcdh4 package
 
-Generate test data
+Generate Test Data
 ----
 
 Generate one million random points:
