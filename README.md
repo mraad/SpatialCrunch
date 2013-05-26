@@ -25,6 +25,7 @@ Download and Install Crunch
     $ mvn -Phadoop-2 install
 
 Download and Install Esri Geometry API for Java
+----
 
     $ git clone https://github.com/Esri/geometry-api-java.git
     $ cd geometry-api-java
